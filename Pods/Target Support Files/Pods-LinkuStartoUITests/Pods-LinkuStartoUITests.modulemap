@@ -1,0 +1,6 @@
+framework module Pods_LinkuStartoUITests {
+  umbrella header "Pods-LinkuStartoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Hue (3.0.1)
+  - OAuthSwift (1.2.2)
+  - PureLayout (3.1.2)
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Hue
+  - OAuthSwift (~> 1.2.0)
+  - PureLayout
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Hue
+    - OAuthSwift
+    - PureLayout
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Hue: 93e852fa6211ab35922ad8c293f51c43d6c79eb2
+  OAuthSwift: 27b34fe80b76b67cd8f45571e0be2432bc9f6de1
+  PureLayout: 4634d0b61e3b5021166e8ec7c18e9e0ca0720c8b
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+
+PODFILE CHECKSUM: e32a7eadf145aac159550b2aa9b80c980c7e9b32
+
+COCOAPODS: 1.5.3
